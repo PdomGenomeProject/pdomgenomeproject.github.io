@@ -1,0 +1,8 @@
+title: Pdom Genome Project
+author: Daniel Standage
+email: daniel.standage@gmail.com
+description: Supporting data and documentation for the <em>Polistes dominula</em> genome project.
+baseurl: ""
+url: "http://pdomgenomeproject.github.io" # the base hostname & protocol for your site
+markdown: kramdown
+# github_username: PdomGenomeProject
