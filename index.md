@@ -7,13 +7,14 @@ layout: default
   <p style="font-size: 8pt;">Image credit: <a href="http://commons.wikimedia.org/wiki/File:Polistes_dominulus_(%3Dgallicus)_-_head_(2005-10).jpg">Wikimedia Commons</a></p>
 </div>
 
-This page is official distribution point for data, code, and documentation for the *Polistes dominula* genome project.
+This page is the official distribution point for data, code, and documentation for the *Polistes dominula* genome project.
 This project is a collaboration between the [Insect Sociogenomics Lab][tothlab] at Iowa State University (headed by Amy Toth) and the [Computational Genome Science Lab][brendelgroup] at Indiana University (headed by Volker Brendel).
 
 ## Links
 
 - [supporting data](/data)
 - [analysis code and documentation](/code)
+- [genome browser](http://goblinx.soic.indiana.edu/PdomGDB)
 - [HymHub][hymhub]
 
 
