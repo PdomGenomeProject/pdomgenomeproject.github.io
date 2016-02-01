@@ -12,3 +12,4 @@ Supporting code and documentation associated with the *Polistes dominula* genome
 - [Transcript spliced alignment](https://github.com/PdomGenomeProject/transcript-alignment)
 - [Protein spliced alignment](https://github.com/PdomGenomeProject/protein-alignment)
 - [Genome annotation](https://github.com/PdomGenomeProject/genome-annotation)
+- [Differential expression](https://github.com/PdomGenomeProject/diff-exp)
