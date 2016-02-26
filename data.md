@@ -24,6 +24,7 @@ Genome and transcriptome assemblies have been deposited in GenBank.
 ## Annotation
 
 Genome annotation has been submitted to NCBI but is not yet published.
+In the mean time, NCBI has performed their own automated annotation of *P. dominula*, which is now available from [GenBank and RefSeq](http://www.ncbi.nlm.nih.gov/genome/42066).
 
 ## Other data
 
