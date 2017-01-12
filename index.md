@@ -20,7 +20,7 @@ This project is a collaboration between the [Insect Sociogenomics Lab][tothlab] 
 
 ## Reference
 
-**Standage DS, Berens AJ, Glastad KM, Severin AJ, Brendel VP, Toth AL** (2016) Genome, transcriptome, and methylome sequencing of a primitively eusocial wasp reveal a greatly reduced DNA methylation system in a social insect. *Manuscript in review.*
+**Standage DS, Berens AJ, Glastad KM, Severin AJ, Brendel VP, Toth AL** (2016) Genome, transcriptome, and methylome sequencing of a primitively eusocial wasp reveal a greatly reduced DNA methylation system in a social insect. *Molecular Ecology*, **25**, 1769-1784, [doi:10.1111/mec.13578](http://dx.doi.org/10.1111/mec.13578).
 
 [tothlab]: http://www.public.iastate.edu/~amytoth/Toth_lab/Home.html
 [brendelgroup]: http://brendelgroup.org/
